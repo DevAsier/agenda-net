@@ -5,9 +5,9 @@ Este proyecto es una aplicación de agenda desarrollada con .NET Core. Permite g
 ## Características principales
 
 - **Gestión de contactos**: Crear, editar y eliminar contactos.
-- **Eventos**: Agregar, modificar y eliminar eventos con detalles como fecha, hora y lugar.
-- **Vista de calendario**: Visualizar eventos en un calendario semanal o mensual.
-- **Notificaciones**: Recordatorios de eventos próximos a través de alertas.
+- **Multilenguaje**: Podremos elegir el idioma que queramos entre inglés, español o portugués.
+- **Interfaz**: Próximamente contará con una interfaz operativa.
+
 
 ## Requisitos previos
 
